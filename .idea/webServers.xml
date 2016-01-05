@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9ad8f8ff-072c-4285-b131-4162ae2fe311" name="https://github.com/Mrbrianojee/MBP_Dep_Test_1" url="https://github.com/Mrbrianojee/MBP_Dep_Test_1">
+        <fileTransfer host="" port="21" username="">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
